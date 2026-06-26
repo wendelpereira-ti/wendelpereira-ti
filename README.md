@@ -1,4 +1,4 @@
-Olá, eu sou o Wendel! 👋
+#Olá, eu sou o Wendel! 👋
 
 Bem-vindo ao meu portfólio de projetos e estudos. Estou focado em otimização de processos, automação de rotinas e inteligência de dados.
 
